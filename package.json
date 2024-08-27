@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "npx nodemon",
     "build": "tsc",
-    "start": "npm run build && node build/server.js",
+    "start": "npm run build && node build/app.js",
     "format": "prettier -w ."
   },
   "keywords": [],
